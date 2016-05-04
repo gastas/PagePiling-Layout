@@ -1,0 +1,16 @@
+layout-pagepiling:
+  label: PagePilling layout
+  category: Coditals
+  template: templates/pagepiling-layout
+  library: layout_pagepiling/jquery.pagepiling
+  regions:
+    first:
+      label: First slide
+    second:
+      label: Second slide
+    third:
+      label: Third slide
+    four:
+      label: Four slide
+    five:
+      label: Five slide

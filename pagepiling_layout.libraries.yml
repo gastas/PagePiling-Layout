@@ -1,0 +1,14 @@
+jquery.pagepiling:
+  remote: https://github.com/alvarotrigo/pagePiling.js
+  version: 2.5.3
+  license:
+    name: MIT
+    gpl-compatible: true
+  js:
+    js/pagepiling_layout.js: {}
+    /libraries/pagePiling.js/jquery.pagepiling.min.js: {}
+  css:
+    base:
+      /libraries/pagePiling.js/jquery.pagepiling.css: {}
+  dependencies:
+    - core/jquery

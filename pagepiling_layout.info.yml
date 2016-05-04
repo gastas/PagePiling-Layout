@@ -1,0 +1,7 @@
+name: pagePiling
+type: module
+description: 'Scrolling site layouts'
+core: 8.x
+package: Coditals
+dependencies:
+  - layout_plugin
